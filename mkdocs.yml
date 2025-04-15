@@ -1,6 +1,6 @@
 site_name: Documentation
-site_url: https://defendthehoneypot.github.io/documentation
-repo_url: https://github.com/defendthehoneypot/documentation
+site_url: https://chastinj.github.io/Dawn-of-Time/
+repo_url: https://github.com/chastinj/Dawn-of-Time
 edit_uri: edit/main/docs
 theme:
   name: material
