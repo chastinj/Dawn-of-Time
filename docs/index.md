@@ -1,0 +1,1 @@
+Example site to create your own mkdocs site with the material theme.  
