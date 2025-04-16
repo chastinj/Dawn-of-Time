@@ -126,9 +126,9 @@ markdown_extensions:
 # Page tree
 nav:
   - Active Directory:
-    - Azure : windows/readme.md
+    - Azure : windows/azure/readme.md
     - Windows: windows/readme.md
-    - PowerShell: windows/readme.md
+    - SysMon: windows/sysmon/readme.md
   - Coding:
     - JavaScript: coding/readme.md
   - PowerCLI:
