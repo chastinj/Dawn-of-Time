@@ -131,7 +131,6 @@ nav:
     - PowerShell: windows/readme.md
   - Coding:
     - JavaScript: coding/readme.md
-  - PowerCLi:
   - Troubleshooting:
     - Printer Troubleshooting: troubleshooting/readme.md
   - Printers:
